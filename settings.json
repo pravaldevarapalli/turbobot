@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "woah88woah99",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "aexonline.aternos.me",
+    "port": 41604,
+    "version": "1.18.1"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "12345678"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 594,
+
+      "messages": [
+        "Br0 ",
+        "Will Be 24/7 ",
+        "Check ",
+        "Joe Mama Here!"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": false,
+    "auto-recconect-delay": 5000
+  }
+}
